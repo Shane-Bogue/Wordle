@@ -37,7 +37,7 @@ section {
     height: 90vh;
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
-    padding: 2rem;
+    padding: 2vw;
     display: grid;
     grid-template-rows: 1fr 1fr;
     place-items: center;
